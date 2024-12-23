@@ -1,1 +1,1 @@
-FROM nvcr.io/nvidia/pytorch:24.10-py3:devel
+FROM nvcr.io/nvidia/pytorch:24.10-py3
