@@ -4,4 +4,5 @@
 # FROM continuumio/miniconda3:24.3.0
 # FROM python:3.7-slim
 # FROM pytorch/pytorch:2.5.0-cuda12.4-cudnn9-runtime
-FROM qdrant/qdrant:latest
+# FROM qdrant/qdrant:latest
+FROM nginx:alpine
